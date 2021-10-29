@@ -7,5 +7,5 @@ git clone https://github.com/SuryaDasN/arp_spoof_detector
 cd arp_spoof_detector
 pip3 install -r requirements.txt
 
-python3 mac_spoofer.py [-h] [-i INTERFACE]
+python3 arp_spoof_detector.py [-h] [-i INTERFACE]
 ```
